@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Your Name]!
+### Hi there 👋, I'm Nguyen Huu Hoang Minh!
 
 I'm a Backend Developer from Ho Chi Minh City with a passion for building clean, efficient, and scalable backend solutions.
 
@@ -8,7 +8,7 @@ I'm a Backend Developer from Ho Chi Minh City with a passion for building clean,
 - 🚀 I love building things with **Spring Boot**, **NodeJS**, and **FastAPI**.
 - ☁️ I have hands-on experience with **deployment**, **Docker**, and **CI/CD** pipelines.
 - 💬 Ask me about anything related to backend development or teamwork!
-- 📫 How to reach me: [Link to your LinkedIn profile]
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/minhnguyenapcs22/)
 
 ---
 
