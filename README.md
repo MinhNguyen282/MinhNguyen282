@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋, I'm [Your Name]!
 
-<!--
-**MinhNguyen282/MinhNguyen282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Developer from Ho Chi Minh City with a passion for building clean, efficient, and scalable backend solutions.
 
-Here are some ideas to get you started:
+- 🎓 Graduated with a Bachelor's degree from the **University of Science, VNU-HCM**.
+- 🌱 I’m currently learning more about cloud-native technologies and microservice architecture.
+- 💻 My core languages are **Java**, **Python**, **C++**, and **JavaScript**.
+- 🚀 I love building things with **Spring Boot**, **NodeJS**, and **FastAPI**.
+- ☁️ I have hands-on experience with **deployment**, **Docker**, and **CI/CD** pipelines.
+- 💬 Ask me about anything related to backend development or teamwork!
+- 📫 How to reach me: [Link to your LinkedIn profile]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 My Tech Stack
+
+| Languages      | Frameworks & Runtimes | Frontend | DevOps & Tools |
+| :------------- | :-------------------- | :------- | :------------- |
+| `Java`         | `Spring Boot`         | `ReactJS`  | `Docker`       |
+| `Python`       | `FastAPI`             |            | `Git`          |
+| `C++`          | `NodeJS`              |            | `CI/CD`        |
+| `JavaScript`   |                       |            |                |
